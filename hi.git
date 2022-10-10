@@ -28,5 +28,8 @@ $ git status
 $ git commit -m "message"
 
 
+# git remote login ##
+
+$ git remote add origin <repos link>
 
 
