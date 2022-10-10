@@ -3,3 +3,15 @@ ec2-44-204-205-95.compute-1.amazonaws.comHello World !!
 This is Mahendar 
 ## Git installation ##
 $sudo yum update
+
+## Git config ##
+
+$sudo yum install git
+
+## git cofig ##
+
+$ sudo git config --global user.email "mailid"
+
+$ sudo git config --global user.name "username"
+
+
