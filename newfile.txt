@@ -1,0 +1,10 @@
+Hi This is new branch 2
+
+
+Here we learning about git branching
+
+$ git checkout -b brnachname
+
+$ git branch
+
+$ git 
