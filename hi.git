@@ -15,3 +15,18 @@ $ sudo git config --global user.email "mailid"
 $ sudo git config --global user.name "username"
 
 
+##  add files to git  ##
+
+$ git add "file name"
+
+## check file status ##
+
+$ git status
+
+# Commit files to git ##
+
+$ git commit -m "message"
+
+
+
+
