@@ -33,3 +33,12 @@ $ git commit -m "message"
 $ git remote add origin <repos link>
 
 
+## Git rebase ##
+
+$ git checkout branchname
+
+## Git merge ##
+
+$ git merge branchname
+
+
